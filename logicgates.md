@@ -31,9 +31,9 @@ A full adder adds 3 bits together:
 - Inputs: A, B, Cin (carry-in)  
 - Outputs: S (sum), Cout (carry-out)
 
-![Screenshot 2025-04-04 111303](https://github.com/user-attachments/assets/d074fd98-017d-4868-83c7-a963cc6c8c9b)
-
+![Screenshot 2025-04-04 111303](https://github.com/user-attachments/assets/336a55ae-afa7-47cb-89de-aae447c708d7)
 ![Screenshot 2025-04-04 111321](https://github.com/user-attachments/assets/14850cd9-2c1c-4f7c-9499-4f5519d31b5e)
+
 
 ---
 
