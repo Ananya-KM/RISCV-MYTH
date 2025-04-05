@@ -8,7 +8,7 @@
 - Uses a clock to control timing.
 - Makes output predictable.
 - State updates happen on clock edge.
-- 
+
 ![Screenshot 2025-04-05 115206](https://github.com/user-attachments/assets/94199aaf-cdfc-402a-bc65-2d35ce07fe83)
 
 ---
@@ -36,7 +36,7 @@
 - Combines current input + stored state.
 - Clock updates the state.
 - Output changes based on new state.
-- 
+
 ![Screenshot 2025-04-05 115222](https://github.com/user-attachments/assets/ac237adb-acd9-42aa-b373-917af42398fb)
 
 ---
