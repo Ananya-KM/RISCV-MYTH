@@ -63,9 +63,11 @@
 $reset = *reset;
 $fib = $reset ? 32'd1 : >>1$fib + >>2$fib;
 ```
+![Screenshot 2025-04-04 084930](https://github.com/user-attachments/assets/d9d44ddd-0ae8-430d-8f6a-f7b57f6f6fba)
+![Screenshot 2025-04-04 085134](https://github.com/user-attachments/assets/b178b7e6-bb96-46b0-a041-a0144f9d3e5b)
 
 ---
-
+## LABS
 ## Free-Running Counter
 
 ```tlv
