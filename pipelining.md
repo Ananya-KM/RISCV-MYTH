@@ -108,7 +108,7 @@ This gives many advantages:
 
 ---
 ### Timing Abstraction and Flexibility in TL-Verilog:
-Absolutely! Here's your detailed content rewritten in a **simplified and clear form** — same meaning, just easier to understand, and structured to follow smoothly:
+ A detailed content rewritten in a **simplified and clear form** — same meaning, just easier to understand, and structured to follow smoothly:
 
 ![Screenshot 2025-04-07 225809](https://github.com/user-attachments/assets/24796942-ec1c-40d7-a3f8-5281d3de6529)
 
@@ -200,9 +200,6 @@ This is:
 - **TL-Verilog** makes pipeline design **simple and safe**.
 - **Flexibility:** You can change the number of stages without changing your logic.
 - **Timing abstraction** means your design works even if you move operations to different cycles — perfect for handling real hardware delays like long signal travel.
-
----
-Here’s a simpler version of your notes on **Pipelining and Waveform Analysis**, with each section made easy to understand:
 
 ---
 
@@ -305,11 +302,10 @@ Sure! Here's a simpler and clearer version of your notes on **Waveform Viewer an
 - So, your code stays **clean and easy**, but it still creates **efficient pipelined hardware** underneath.
 
 ---
-Here’s a simpler and easier-to-understand version of the remaining content:
-
----
 
 ### 🔁 Retiming, Feedback, and Pipeline Visualization (Simple Version)
+![Screenshot 2025-04-06 114516](https://github.com/user-attachments/assets/ff61f667-78b2-4cb9-9ee7-a2ae92446bc6) </p>
+![Screenshot 2025-04-06 114538](https://github.com/user-attachments/assets/ebe90317-3e69-4a6b-9d0a-d95e4cddbd7f)
 
 ---
 
@@ -347,9 +343,6 @@ Pipeline diagrams are great because they help you:
 - Track how **feedback** works when using old values in new calculations.
 
 🧠 They make it much easier to understand **how your design works** under the hood, especially with complex logic or loops.
-
----
-
 
 ---
 
@@ -515,3 +508,4 @@ Sure! Here's a much **simpler explanation** of the **Pipeline Calculator Circuit
 - The result comes **after 2 cycles** due to the new setup.
 
 ---
+# LABS
