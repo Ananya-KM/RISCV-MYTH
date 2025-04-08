@@ -267,8 +267,8 @@ Sure! Here's a simpler and clearer version of your notes on **Waveform Viewer an
 - Since pipelined data takes **multiple cycles to produce an output**, this viewer helps you track how **inputs turn into outputs** after a few clock cycles.
 - For example, if you give input `a` and `b` now, you'll see the output `c` **a few cycles later** in the waveform.
 - 
-![Screenshot 2025-04-05 084704](https://github.com/user-attachments/assets/3d66d5f1-a243-4d05-b15c-3d9db5bbc5b6)
-
+![Screenshot 2025-04-05 084704](https://github.com/user-attachments/assets/3d66d5f1-a243-4d05-b15c-3d9db5bbc5b6) </p>
+![Screenshot 2025-04-05 112759](https://github.com/user-attachments/assets/1541f366-3885-468e-81a6-d1841c678f06)
 ---
 
 #### 5. ⏱ Understanding Timing & Signal Alignment
@@ -349,7 +349,7 @@ Pipeline diagrams are great because they help you:
 🧠 They make it much easier to understand **how your design works** under the hood, especially with complex logic or loops.
 
 ---
-Here's a **simplified version** of the TL-Verilog syntax basics and pipeline behavior:
+
 
 ---
 
@@ -363,6 +363,7 @@ Here's a **simplified version** of the TL-Verilog syntax basics and pipeline beh
   - Use **lowercase with underscores**.  
   - Example: `a_pipe_signal`
 
+
 - **State Signals** (hold memory/state):  
   - Use **PascalCase** (each word starts with a capital letter).  
   - Example: `ComputeValue`, `CurrentState`
@@ -373,7 +374,9 @@ Here's a **simplified version** of the TL-Verilog syntax basics and pipeline beh
 
 - **Numbers in Names**:  
   - OK at the **end** of a word: `base64` ✅  
-  - But NOT at the beginning or as a separate word: `64base`, `base_64_number` ❌
+  - But NOT at the beginning or as a separate word: `64base`, `base_64_number` 
+  - 
+![Screenshot 2025-04-07 225855](https://github.com/user-attachments/assets/4113cf93-88cc-4bbc-9816-0b3a26798a9f)
 
 ---
 
@@ -406,6 +409,8 @@ Here's a **simplified version** of the TL-Verilog syntax basics and pipeline beh
 - In non-pipelined versions, everything happens in `@0`, making it harder to manage.
 
 - In pipelined versions, each step is clearly assigned to a stage (`@1`, `@2`, etc.) → **better organization**.
+  
+![Screenshot 2025-04-07 225916](https://github.com/user-attachments/assets/dd5c2902-891a-4157-9af8-5e51e31dfdd4)
 
 ---
 
@@ -432,6 +437,8 @@ Here's a **simplified version** of the TL-Verilog syntax basics and pipeline beh
 ```
 
 - **Important**: Don’t shift errors incorrectly (like using `>>2$err1`) unless that’s your intention—it will refer to an older stage’s value.
+- 
+![Screenshot 2025-04-08 070514](https://github.com/user-attachments/assets/361f4e2f-da11-4f7b-b8ea-565b5023ae6e)
 
 ---
 
