@@ -1,4 +1,5 @@
 # Pipelining
+![Screenshot 2025-04-07 225715](https://github.com/user-attachments/assets/e6dcac42-dd25-4b65-a123-08aa44fb6d93)
 
 ---
 
@@ -8,11 +9,10 @@
 
 ### **1. Computation Goal: Pythagoras Theorem**
 
+![Screenshot 2025-04-07 225725](https://github.com/user-attachments/assets/5638cf7f-7a02-4fc8-9113-15245bc67d8e)
+
 We want to find the distance `c` using this formula:
 
-\[
-c = \sqrt{a^2 + b^2}
-\]
 
 To do this using hardware, we need to:
 - Square values `a` and `b`
@@ -28,6 +28,8 @@ If the work takes more time than a cycle allows, the output won’t be correct.
 
 This calculation is too complex to finish in just one clock cycle.  
 So, we **split the work into steps**, done over **multiple clock cycles**.
+
+![Screenshot 2025-04-07 225738](https://github.com/user-attachments/assets/e70d5ad2-b868-46d9-b1a8-fd1d4486a7a8)
 
 ---
 
@@ -75,6 +77,8 @@ You just write:
 
 Behind the scenes, **TL-Verilog automatically adds flip-flops** and handles all timing.
 
+![Screenshot 2025-04-07 225751](https://github.com/user-attachments/assets/da5c399e-8d54-4487-93d7-1d6865695154)
+
 ---
 
 ### **Traditional RTL Code:**
@@ -106,9 +110,13 @@ This gives many advantages:
 ### Timing Abstraction and Flexibility in TL-Verilog:
 Absolutely! Here's your detailed content rewritten in a **simplified and clear form** — same meaning, just easier to understand, and structured to follow smoothly:
 
+![Screenshot 2025-04-07 225809](https://github.com/user-attachments/assets/24796942-ec1c-40d7-a3f8-5281d3de6529)
+
 ---
 
 ### **6. TL-Verilog’s Main Benefit: Timing Abstraction**
+
+![Screenshot 2025-04-07 225824](https://github.com/user-attachments/assets/c9457a96-39cf-4486-a001-0de41d6fa337)
 
 The **big advantage** of TL-Verilog is that it **separates function from timing**.
 
@@ -198,11 +206,13 @@ Here’s a simpler version of your notes on **Pipelining and Waveform Analysis**
 
 ---
 
-### 🌟 Understanding Pipeline Benefits & Waveform Analysis (Simple Version)
+# 🌟 Understanding Pipeline Benefits & Waveform Analysis (Simple Version)
+
+![Screenshot 2025-04-07 225838](https://github.com/user-attachments/assets/c2cbead9-d6d0-444b-b81f-af5a912bc7b0)
 
 ---
 
-#### 1. 🚀 Why Use Pipelining? (For High Clock Speed & Performance)
+### 1. 🚀 Why Use Pipelining? (For High Clock Speed & Performance)
 
 - When your **clock is too fast**, your logic can't finish its work in one cycle.
 - **Pipelining helps** by splitting the task into smaller steps that are easier and faster to complete.
