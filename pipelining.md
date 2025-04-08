@@ -257,6 +257,8 @@ Sure! Here's a simpler and clearer version of your notes on **Waveform Viewer an
 
 ### 📈 Waveform Viewer & Pipelining in TL-Verilog 
 
+![Screenshot 2025-04-08 005415](https://github.com/user-attachments/assets/0b87e72d-5345-4c47-ab5a-88b45d664c6d)
+
 ---
 
 #### 4. 👀 Waveform Viewer in Makerchip
@@ -264,6 +266,8 @@ Sure! Here's a simpler and clearer version of your notes on **Waveform Viewer an
 - Makerchip gives a **waveform viewer** to help you **see how data flows through the pipeline over time**.
 - Since pipelined data takes **multiple cycles to produce an output**, this viewer helps you track how **inputs turn into outputs** after a few clock cycles.
 - For example, if you give input `a` and `b` now, you'll see the output `c` **a few cycles later** in the waveform.
+- 
+![Screenshot 2025-04-05 084704](https://github.com/user-attachments/assets/3d66d5f1-a243-4d05-b15c-3d9db5bbc5b6)
 
 ---
 
