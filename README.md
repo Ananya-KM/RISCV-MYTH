@@ -3,7 +3,7 @@
 
 | Day    | Topic                                    | Subtopic                                           | link                                     |
 |--------|------------------------------            |----------------------------------------------------|------------------------------------------|
-| DAY 1     | RISC-V ISA & GNU compiler toolchain      | RISC-V Basic Keywords                 |[RISC-V Basic Keywords](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/basic_keywords.md)               |
+| DAY_1      | RISC-V ISA & GNU compiler toolchain      | RISC-V Basic Keywords                 |[RISC-V Basic Keywords](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/basic_keywords.md)               |
 |           |              | RISC-V software toolchain        | [RISC-V software](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/riscv_software.md)         |
 |       |                   |  Integer number Representation              | [Integer representation](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/integer_representation.md)      |
 | Day 2     |ABI and Basic Verification Flow              |        ABI Basics                  |[ABI Basics](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/ABI_basics.md)         |
