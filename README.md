@@ -5,8 +5,8 @@
 |--------|------------------------------            |----------------------------------------------------|------------------------------------------|
 | DAY 1     | RISC-V ISA & GNU compiler toolchain      | RISC-V Basic Keywords                 |[RISC-V Basic Keywords](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/basic_keywords.md)               |
 |           |              | RISC-V software toolchain        | [RISC-V software](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/riscv_software.md)         |
-|       | git status                   |  Integer number Representation              |       |
-| Day 2     |ABI and Basic Verification Flow              |        ABI Basics                  | Use `.` to stage all files               |
+|       |                   |  Integer number Representation              | [Integer representation](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/integer_representation.md)      |
+| Day 2     |ABI and Basic Verification Flow              |        ABI Basics                  |[ABI Basics](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/ABI_basics.md)         |
 |      |          | ABI Labs             | Descriptive messages recommended         |
 | Day 3     | Digital Logic with TL-Verilog in MakerChip IDE                   | Logic gates               | Requires prior `git remote` setup        |
 |       |                | Makerchip Platform | Keeps local branch updated               |
