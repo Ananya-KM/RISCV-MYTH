@@ -4,7 +4,7 @@
 | Day    | Topic                                    | Subtopic                                           | link                                     |
 |--------|------------------------------            |----------------------------------------------------|------------------------------------------|
 | DAY 1     | RISC-V ISA & GNU compiler toolchain      | RISC-V Basic Keywords                 |[RISC-V Basic Keywords](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/basic_keywords.md)               |
-|           |              | RISC-V software toolchain        |                |
+|           |              | RISC-V software toolchain        | [RISC-V software](https://github.com/Ananya-KM/RISCV-MYTH/blob/main/riscv_software.md)         |
 |       | git status                   |  Integer number Representation              |       |
 | Day 2     |ABI and Basic Verification Flow              |        ABI Basics                  | Use `.` to stage all files               |
 |      |          | ABI Labs             | Descriptive messages recommended         |
