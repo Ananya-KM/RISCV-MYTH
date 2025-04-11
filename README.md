@@ -14,7 +14,7 @@
 |      |           | Sequential Logic                              | Doesn’t switch to it automatically       |
 |      |        | Pipelined Logic                 | For changing working branch              |
 |     |         |Validity       | Resolve conflicts if any                 |
-| Day 4    | Coding a RISC-V CPU subset                    | Simple RISc-V Microarchitecture                              | Use `--oneline` for concise view         |
+| Day 4    | Coding a RISC-V CPU subset                    | Simple RISC-V Microarchitecture                              | Use `--oneline` for concise view         |
 |     |                | Fetch and Decode                                  | Helpful for checking origin              |
 |     |      | RISC-V Control Logic                               | Doesn’t delete changes                   |
 | Day 5     | Pipelining and completing your CPU               |Understanding CPU Pipelining                 | Use `--cached` to untrack only           |
