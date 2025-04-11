@@ -1,9 +1,4 @@
-# Pipelining
-![Screenshot 2025-04-07 225715](https://github.com/user-attachments/assets/e6dcac42-dd25-4b65-a123-08aa44fb6d93)
-
----
-
-### **Pipeline Logic and Hardware Computation (Pythagoras Theorem Example)**
+# **Pipeline Logic and Hardware Computation (Pythagoras Theorem Example)**
 
 ---
 
@@ -509,3 +504,14 @@ Sure! Here's a much **simpler explanation** of the **Pipeline Calculator Circuit
 
 ---
 # LABS
+### Pipelined Sequential Calculator With Counter
+![Screenshot 2025-04-11 022633](https://github.com/user-attachments/assets/ca5b16ca-081f-4d9b-88bf-935db3f9294c) </p>
+![Screenshot 2025-04-11 022643](https://github.com/user-attachments/assets/88274ec5-ddce-4fcf-a418-8922de7b1bff)
+
+### Pipelined Sequential Calculator With Counter - with 2nd stage
+![Screenshot 2025-04-11 022745](https://github.com/user-attachments/assets/8127ac90-2a8f-4d39-8718-63dd8d4300b3) </p>
+![Screenshot 2025-04-11 022758](https://github.com/user-attachments/assets/36a221cd-cfe9-4587-91a5-9694cb9a81a9)
+### Pythagoras Theorem 3 Dimensional
+![Screenshot 2025-04-11 022839](https://github.com/user-attachments/assets/d06dd097-1e3e-4bff-9305-8d01c5fa07dd)
+
+
