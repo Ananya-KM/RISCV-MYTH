@@ -1,4 +1,4 @@
-# RISCV BASIC KEYWORDS
+# RISC-V BASIC KEYWORDS
 ### **Section Overview**
 
 This section introduces the concept of **Instruction Set Architecture (ISA)** — the fundamental language that computers understand to perform operations. ISA defines how software communicates with the hardware.
